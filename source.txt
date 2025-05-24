@@ -1,3 +1,4 @@
 Mergecon
 This is text file
-good afternoon 
+good afternoon
+merge conflict 
